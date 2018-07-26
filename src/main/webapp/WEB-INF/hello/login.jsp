@@ -11,6 +11,6 @@
     <title>Title</title>
 </head>
 <body>
-Login page
+Login pages
 </body>
 </html>
